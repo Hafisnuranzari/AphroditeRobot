@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
+  <img src="https://telegra.ph/file/57b05ae0cf19dda7d1ac6.jpg">
 </p>
 
 <h4><p align="center"> APHRODITE ROBOT </p></h4>
 
-<p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">Aphrodite Robot Pengelola Liang Lahab.</p>
 
 <p align="center">
 <a href="https://t.me/emiexrobot"> <img src="https://img.shields.io/badge/Emiko-Robot-blue?&logo=telegram" alt="Emiko on Telegram" /> </a><br>
