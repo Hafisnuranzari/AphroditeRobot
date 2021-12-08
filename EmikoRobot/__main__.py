@@ -92,7 +92,7 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="About Emiko Robot", callback_data="emiko_"),
+        InlineKeyboardButton(text="About Jamet Robot", callback_data="emiko_"),
     ],
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
@@ -113,7 +113,7 @@ Click on the button bellow to get description about specifics command."""
 EMI_IMG = "https://telegra.ph/file/57b05ae0cf19dda7d1ac6.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @excrybaby \
+ You can support the project by contacting @xyfckngyz \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
